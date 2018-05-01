@@ -20,7 +20,7 @@ For examples, with below dataset
 
 ![](./figures/dataset.png)
 
-    |--- Root n_samples=2006, prob=(0.521, 0.479)
+    Root n_samples=2006, prob=(0.521, 0.479)
     |---  (var2 < 4.005). label=1 n_samples=824, prob=(0.220, 0.780)
     |--- |---  (var1 < 7.005). label=1 n_samples=612, prob=(0.000, 1.000)
     |--- |---  (var1 > 7.005). label=0 n_samples=212, prob=(0.854, 0.146)
